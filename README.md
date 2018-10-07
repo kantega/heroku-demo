@@ -92,7 +92,9 @@ to the development environment. To set it up so that Heroku automatically deploy
 stage, click the arrow next to "kantega-heroku-demo-dev" and select "Configure automatic deploys...". Choose
 the master branch, and click "Enable Automatic Deploys". 
 
-Now, make a small change to src/App.js, save and push to github. 
+Now, make a small change to src/App.js, save and push to github. After a few seconds. you should see
+"Building app" in the Heroku console. 
+
 
 
 
