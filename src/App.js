@@ -24,8 +24,4 @@ class App extends Component {
   }
 }
 
-xport default App;:x
-:x
-:d
-:q
 
