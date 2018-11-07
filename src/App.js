@@ -21,6 +21,7 @@ class App extends Component {
           >
             Learn React
             Just typing stuff for Heroku testing
+            Kristoffer loves Visual Studio
           </a>
         </header>
       </div>
