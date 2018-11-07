@@ -4,7 +4,12 @@ import "./App.css";
 
 class App extends Component {
   render() {
-    return <div className="App">hello world! Automatic deploy is enabled.</div>;
+    return (
+      <div className="App">
+        hello world! Automatic deploy is enabled.
+        <div>new pull request.</div>
+      </div>
+    );
   }
 }
 
