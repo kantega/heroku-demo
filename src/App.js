@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            bønna bønna 
+            bønna bønna  branch 2
           </a>
         </header>
       </div>
