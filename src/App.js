@@ -15,7 +15,7 @@ class App extends Component {
 		    En enorm endring
 	  </p>
 	  <p>
-	  		Enda en endring
+	  		test
 	  </p>
           <a
             className="App-link"
