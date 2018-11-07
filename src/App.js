@@ -11,6 +11,9 @@ class App extends Component {
         <p>
 	oioioi!!
 	</p>  
+	<h2> 
+	hvor ender dette opp???
+	</h2>
 	<h1>
 		    Edit <code>src/App.js</code> and save to reload.	
           </h1>
