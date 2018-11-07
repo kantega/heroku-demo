@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>Jeg har gjort endringer! Det er gjort. Edit <code>src/App.js</code> and save to reload.	</p>
+          <p>Jeg har gjort endringer i filen! Workshop med Kantega. Gleder meg til burger senere!  Edit <code>src/App.js</code> and save to reload.	</p>
           <a
             className="App-link"
             href="https://reactjs.org"
@@ -23,3 +23,4 @@ class App extends Component {
   }
 }
 export default App;
+
