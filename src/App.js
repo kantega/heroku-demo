@@ -11,6 +11,7 @@ class App extends Component {
           <p>
 		    Kan det fikses?
                     Klart det kan.
+					Eller KAN det??
               Edit <code>src/App.js</code> and save to reload.	
           </p>
           <a
