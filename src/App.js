@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            øystein steintung 
+            bønna bønna 
           </a>
         </header>
       </div>
