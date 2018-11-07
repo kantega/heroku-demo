@@ -18,7 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React with Root & Kantega
-		Blir Burger å Pils etterpå!
+		Burger å Pils etterpå!
 	 </a>
         </header>
       </div>
