@@ -1,0 +1,15 @@
+{
+  "addons": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "name": "heroku-demo",
+  "scripts": {
+  }
+}
