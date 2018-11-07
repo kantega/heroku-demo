@@ -14,6 +14,9 @@ class App extends Component {
 	  <p>
 		    En enorm endring
 	  </p>
+	  <p>
+	  		Enda en endring
+	  </p>
           <a
             className="App-link"
             href="https://reactjs.org"
