@@ -13,6 +13,7 @@ class App extends Component {
           </p>
             <h1>I need me some burger</h1>
             <h2>Right now boi</h2>
+            <h3>And you better have some fries too</h3>
           <a
             className="App-link"
             href="https://reactjs.org"
