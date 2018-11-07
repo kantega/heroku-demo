@@ -6,6 +6,7 @@ Then, clone the repository from your fork:
 
 # Create an app
 
+    $ cd heroku-demo
     $ heroku apps:create --region eu <username>-heroku-dev
     $ git push heroku
     
