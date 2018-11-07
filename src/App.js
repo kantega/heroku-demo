@@ -17,12 +17,13 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
-          </a>
+            Learn React with Root & Kantega
+		Burger å Pils etterpå!
+	 </a>
         </header>
       </div>
     );
   }
 }
 
-export default App;
+export default App
