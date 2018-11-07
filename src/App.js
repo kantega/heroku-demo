@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React with Root & Kantega
           </a>
         </header>
       </div>
@@ -25,4 +25,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App
