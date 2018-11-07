@@ -20,6 +20,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
+            Just typing stuff for Heroku testing
           </a>
         </header>
       </div>
