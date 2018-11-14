@@ -9,9 +9,9 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-		    Nå er appen vår både på github og heroku :)
+		    Disse endringene kommer direkte fra en pull request
           </p>
-	    <p> Automagisk deployment til heroku fra github </p>
+	    <p> Automagisk pull request deploy til heroku fra github </p>
           <a
             className="App-link"
             href="https://reactjs.org"
