@@ -12,6 +12,7 @@ class App extends Component {
 		    Her har vi nå gjort endringer på den lille appen vår
 	    		La oss gjøre noen flere endringer, så vi får forskjell på dev og staging
           </p>
+	    <p> Første endring </p>
           <a
             className="App-link"
             href="https://reactjs.org"
