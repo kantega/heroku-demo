@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
 		    Hei verden, endring nr 2.
-        Se hvor endringen kommer.	 AISHDHGASUFIAHSUF
+        Se hvor endringen kommer. alt er bra ingen problemer eksisterer	 AISHDHGASUFIAHSUF
           </p>
           <a
             className="App-link"
