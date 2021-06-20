@@ -1,10 +1,30 @@
 <html>
-	<head>
-		<link rel="stylesheet" href="style.css">
-	</head>
+<head>
+<meta http-equiv="Origin" content="*">
+<meta http-equiv="Access-Control-Allow-Origin" content="*">
+<script type="text/javascript">  
+	
+	var msg = 'Message to Salesforce - Hola!!'; 
+	var _domain = '';
+	window.onload = function(){
+		//var myApp = new GlueFrame(document.getElementById("ifr"), "SFFrame");
+        };
+	
+	function postCrossDomainMessage() {
+  		var win = document.getElementById('ifr').contentWindow;
+  		win.postMessage(msg, "https://itsmanishudev-dev-ed--c.visualforce.com/");
+	}
+</script>
+</head>
+<body>
+||You are on plain HTML page (non-SF)||
+LocalStorageSetter.html
 
-	<body>
-		<h1>Hello, World!</h1>
-		<img src='unicorn.jpg' width='600'>
-	</body>
+I am posting::
+<input id="ipMsg" type="text" name="theTextInput" value="My Message"/>
+<input type="button" value="Send Msg" onclick="javascript:postCrossDomainMessage()"/>
+
+<iframe  src="https://itsmanishudev-dev-ed--c.visualforce.com/apex/accountSearch?core.apexpages.request.devconsole=1" id="ifr"></iframe>
+style="display:none;"
+</body>
 </html>
